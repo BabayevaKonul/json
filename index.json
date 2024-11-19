@@ -1,0 +1,248 @@
+{
+    "fashionBrands": [
+      {
+        "id": 1,
+        "name": "Gucci",
+        "headquarters": "Florence, Italy",
+        "foundedYear": 1921,
+        "logo": "gucci_logo.png"
+      },
+      {
+        "id": 2,
+        "name": "Louis Vuitton",
+        "headquarters": "Paris, France",
+        "foundedYear": 1854,
+        "logo": "louis_vuitton_logo.png"
+      },
+      {
+        "id": 3,
+        "name": "Chanel",
+        "headquarters": "Paris, France",
+        "foundedYear": 1909,
+        "logo": "chanel_logo.png"
+      },
+      {
+        "id": 4,
+        "name": "Prada",
+        "headquarters": "Milan, Italy",
+        "foundedYear": 1913,
+        "logo": "prada_logo.png"
+      },
+      {
+        "id": 5,
+        "name": "Hermès",
+        "headquarters": "Paris, France",
+        "foundedYear": 1837,
+        "logo": "hermes_logo.png"
+      },
+      {
+        "id": 6,
+        "name": "Ralph Lauren",
+        "headquarters": "New York, USA",
+        "foundedYear": 1967,
+        "logo": "ralph_lauren_logo.png"
+      },
+      {
+        "id": 7,
+        "name": "Burberry",
+        "headquarters": "London, UK",
+        "foundedYear": 1856,
+        "logo": "burberry_logo.png"
+      },
+      {
+        "id": 8,
+        "name": "Versace",
+        "headquarters": "Milan, Italy",
+        "foundedYear": 1978,
+        "logo": "versace_logo.png"
+      },
+      {
+        "id": 9,
+        "name": "Fendi",
+        "headquarters": "Rome, Italy",
+        "foundedYear": 1925,
+        "logo": "fendi_logo.png"
+      },
+      {
+        "id": 10,
+        "name": "Balenciaga",
+        "headquarters": "Paris, France",
+        "foundedYear": 1917,
+        "logo": "balenciaga_logo.png"
+      },
+      {
+        "id": 11,
+        "name": "Dior",
+        "headquarters": "Paris, France",
+        "foundedYear": 1946,
+        "logo": "dior_logo.png"
+      },
+      {
+        "id": 12,
+        "name": "Saint Laurent",
+        "headquarters": "Paris, France",
+        "foundedYear": 1961,
+        "logo": "saint_laurent_logo.png"
+      },
+      {
+        "id": 13,
+        "name": "Tom Ford",
+        "headquarters": "Los Angeles, USA",
+        "foundedYear": 2005,
+        "logo": "tom_ford_logo.png"
+      },
+      {
+        "id": 14,
+        "name": "Armani",
+        "headquarters": "Milan, Italy",
+        "foundedYear": 1975,
+        "logo": "armani_logo.png"
+      },
+      {
+        "id": 15,
+        "name": "Givenchy",
+        "headquarters": "Paris, France",
+        "foundedYear": 1952,
+        "logo": "givenchy_logo.png"
+      }
+    ],
+  
+    "collection": [
+      {
+        "id": 1,
+        "brandId": 1,
+        "title": "Gucci Spring/Summer 2024",
+        "season": "Spring/Summer",
+        "year": 2024,
+        "rating": 4.9,
+        "image": "gucci_spring_summer_2024.png"
+      },
+      {
+        "id": 2,
+        "brandId": 2,
+        "title": "Louis Vuitton Fall/Winter 2023",
+        "season": "Fall/Winter",
+        "year": 2023,
+        "rating": 4.8,
+        "image": "lv_fall_winter_2023.png"
+      },
+      {
+        "id": 3,
+        "brandId": 3,
+        "title": "Chanel Haute Couture 2024",
+        "season": "Haute Couture",
+        "year": 2024,
+        "rating": 5.0,
+        "image": "chanel_haute_couture_2024.png"
+      },
+      {
+        "id": 4,
+        "brandId": 4,
+        "title": "Prada Spring/Summer 2024",
+        "season": "Spring/Summer",
+        "year": 2024,
+        "rating": 4.7,
+        "image": "prada_spring_summer_2024.png"
+      },
+      {
+        "id": 5,
+        "brandId": 5,
+        "title": "Hermès Fall/Winter 2023",
+        "season": "Fall/Winter",
+        "year": 2023,
+        "rating": 4.9,
+        "image": "hermes_fall_winter_2023.png"
+      },
+      {
+        "id": 6,
+        "brandId": 6,
+        "title": "Ralph Lauren Polo 2024",
+        "season": "Spring",
+        "year": 2024,
+        "rating": 4.8,
+        "image": "ralph_lauren_polo_2024.png"
+      },
+      {
+        "id": 7,
+        "brandId": 7,
+        "title": "Burberry Autumn/Winter 2023",
+        "season": "Autumn/Winter",
+        "year": 2023,
+        "rating": 4.6,
+        "image": "burberry_autumn_winter_2023.png"
+      },
+      {
+        "id": 8,
+        "brandId": 8,
+        "title": "Versace Spring/Summer 2024",
+        "season": "Spring/Summer",
+        "year": 2024,
+        "rating": 4.7,
+        "image": "versace_spring_summer_2024.png"
+      },
+      {
+        "id": 9,
+        "brandId": 9,
+        "title": "Fendi Winter Collection 2024",
+        "season": "Winter",
+        "year": 2024,
+        "rating": 4.9,
+        "image": "fendi_winter_collection_2024.png"
+      },
+      {
+        "id": 10,
+        "brandId": 10,
+        "title": "Balenciaga Pre-Fall 2024",
+        "season": "Pre-Fall",
+        "year": 2024,
+        "rating": 4.8,
+        "image": "balenciaga_pre_fall_2024.png"
+      },
+      {
+        "id": 11,
+        "brandId": 11,
+        "title": "Dior Spring 2024",
+        "season": "Spring",
+        "year": 2024,
+        "rating": 5.0,
+        "image": "dior_spring_2024.png"
+      },
+      {
+        "id": 12,
+        "brandId": 12,
+        "title": "Saint Laurent Winter 2023",
+        "season": "Winter",
+        "year": 2023,
+        "rating": 4.7,
+        "image": "saint_laurent_winter_2023.png"
+      },
+      {
+        "id": 13,
+        "brandId": 13,
+        "title": "Tom Ford Fall 2024",
+        "season": "Fall",
+        "year": 2024,
+        "rating": 4.6,
+        "image": "tom_ford_fall_2024.png"
+      },
+      {
+        "id": 14,
+        "brandId": 14,
+        "title": "Armani Spring/Summer 2024",
+        "season": "Spring/Summer",
+        "year": 2024,
+        "rating": 4.8,
+        "image": "armani_spring_summer_2024.png"
+      },
+      {
+        "id": 15,
+        "brandId": 15,
+        "title": "Givenchy Pre-Fall 2024",
+        "season": "Pre-Fall",
+        "year": 2024,
+        "rating": 4.9,
+        "image": "givenchy_pre_fall_2024.png"
+      }
+    ]
+  }
+  
